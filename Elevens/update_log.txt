@@ -1,0 +1,4 @@
+2/8/17 - tensboard.java and tensguirunner.java variations are created.
+2/8/17 - thirteensboard.java and thirteensguirunner.java are created from their respective elevens counterpart.
+2/7/17 version 1.1 - the current cardgamegui.java file in the src folder is an enhanced version of the official cardgamegui.java file created by the AP curriculum. The enhancement includes: preventing a loss from round 0 (losing upon restarting or opening the game) from being recorded.
+2/6/17 version 1- completed the official cardgamegui.java file required by the AP curriculum
